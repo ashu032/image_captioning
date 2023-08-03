@@ -1,4 +1,4 @@
-# IAutomated Image Captioning Using Multimodal Contextual Cues
+# Automated Image Captioning Using Multimodal Contextual Cues
 
 This project implements an image captioning model with attention mechanism using the Xception model as the image encoder. The model generates captions for images by attending to different parts of the image while generating each word in the caption.
 
