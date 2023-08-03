@@ -1,0 +1,9 @@
+tensorflow
+pandas
+matplotlib
+tqdm
+Pillow
+scikit-image
+opencv-python
+nltk
+seaborn
