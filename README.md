@@ -29,8 +29,8 @@ This project implements an image captioning model with attention mechanism using
 4. To train the model, run the following command:
 
 ```bash
-    python main.py
-    ```
+  python main.py
+  ```
 
 
 
