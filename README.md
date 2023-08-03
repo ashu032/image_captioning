@@ -18,7 +18,9 @@ This project implements an image captioning model with attention mechanism using
 
 1. Install the required dependencies by running:
 
-  pip install -r requirements.txt
+  ```bash
+pip install -r requirements.txt
+```
 
 2. Place the `captions_train2017.json` and `captions_val2017.json` files into the `annotations/` directory. The training and validation images should be placed in the `train2017/` and `val2017/` directories, respectively.
 
